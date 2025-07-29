@@ -13,7 +13,6 @@
 @property (copy, nonatomic) FlutterEventSink flutterEventSink;
 @property (assign, nonatomic) BOOL flutterEventListening;
 @property (assign, nonatomic) BOOL isVisible;
-// @property (assign, nonatomic) BOOL isFloating;
 
 @end
 
